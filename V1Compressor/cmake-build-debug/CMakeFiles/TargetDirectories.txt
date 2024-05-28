@@ -1,0 +1,3 @@
+C:/Users/Alec/Desktop/V1Compressor/cmake-build-debug/CMakeFiles/FileCompressor.dir
+C:/Users/Alec/Desktop/V1Compressor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alec/Desktop/V1Compressor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
